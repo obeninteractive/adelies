@@ -1058,7 +1058,7 @@ jQuery(document).ready(function ($) {
             style:            'font-select',
             placeholder:      'Select a font',
             lookahead:        2,
-            cssUrl:          'http://fonts.googleapis.com/css?family=',
+            cssUrl:          'https://fonts.googleapis.com/css?family=',
             fonts:            _fonts,
             apiUrl:           'https://www.googleapis.com/webfonts/v1/webfonts',
             apiKkey:          null,
