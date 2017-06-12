@@ -49,3 +49,6 @@ ul.vcard a { color: #999999 !important; text-decoration: none; border-bottom:1px
     border-bottom: none;
 
 }
+body, input, select, textarea {
+    font-family: "Open Sans";
+}
