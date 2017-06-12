@@ -12,3 +12,7 @@ Tags:           flexible-width, custom-colors, custom-menu, featured-images, pos
 /* Place all your CSS modifications below */
 
 .hide { display: none; }
+h1, .g1-h1, h2, .g1-h2, h3, .g1-h3, .g1-button--big, .g1-numbers__title, .g1-searchbox input, .g1-nav--collapsed #g1-primary-nav-menu .g1-type-tile .g1-submenus .g1-nav-item__title {
+    font-family: "Open Sans";
+    font-weight: 300;
+}
