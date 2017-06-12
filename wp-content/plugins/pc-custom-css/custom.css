@@ -1,0 +1,51 @@
+/*-- Enter your custom CSS below --*/
+
+/* box rounded */
+
+.rounded {
+            border-radius: 9px;
+            -moz-border-radius: 9px;
+            -khtml-border-radius: 9px;
+            -webkit-border-radius: 9px;"
+
+}
+
+/* box shadow */
+.shadow {
+-webkit-box-shadow: 0px 1px 10px 0px rgba(50, 50, 50, 0.78);
+-moz-box-shadow:    0px 1px 10px 0px rgba(50, 50, 50, 0.78);
+box-shadow:         0px 1px 10px 0px rgba(50, 50, 50, 0.78);
+}
+/* color */
+.font-yellow {color: #ebc100}
+.white-font {color: #eeeeee !important}
+.yellow-box {background-color: #ebc100}
+.blue-box {background-color: #192984;}
+
+/* link */
+.list-link li { margin-top: 10px; }
+.list-link a { color: #333333 !important; text-decoration: none; border-bottom:1px dotted #192984; }
+
+/* icon video */
+.icon-facetime-video {color: #ffd821;}
+
+/* logo title */
+.logooos_textcontainer {display: none;}
+
+/* microdata footer */
+
+ul.vcard {
+list-style-type: none;
+}
+
+ul.vcard a { color: #999999 !important; text-decoration: none; border-bottom:1px dotted #999999; }
+
+.g1-footer a {
+    color: #999999;
+    border-bottom: 1px dotted #999999;
+}
+.g1-footer a:hover {
+    color: #efefef;
+    border-bottom: none;
+
+}
