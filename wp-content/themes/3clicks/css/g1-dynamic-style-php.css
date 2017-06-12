@@ -6,8 +6,8 @@
     h5, .g1-h5 { font-size:14px; }
     h6, .g1-h6 { font-size:14px; }
 h1, .g1-h1, h2, .g1-h2, h3, .g1-h3, .g1-button--big, .g1-numbers__title, .g1-searchbox input, .g1-nav--collapsed #g1-primary-nav-menu .g1-type-tile .g1-submenus .g1-nav-item__title { font-family:"Open Sans";font-weight:300; }
-body, input, select, textarea { font-family:"Open Sans"; }
-.g1-meta { font-family:"Open Sans"; }
+body, input, select, textarea { font-family:"Open Sans" !important; }
+.g1-meta { font-family:"Open Sans" !important; }
 #g1-primary-nav-menu > li > a > .g1-nav-item__title, #g1-header .g1-searchbox__switch, #g1-header .g1-cartbox__switch { font-family:"Open Sans"; }
     /* logo on left, menu on right */
     #g1-id {
